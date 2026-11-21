@@ -46,8 +46,8 @@ Ce notebook compare trois approches de classification en 11 catégories :
 ## Installation
 
 ```bash
-git clone https://github.com/WillIsback/p12-phase1-zenassist.git
-cd p12-phase1-zenassist
+git clone https://github.com/WillIsback/OC-DIA-P12-ZenAssist-Phase1.git
+cd OC-DIA-P12-ZenAssist-Phase1
 uv sync
 ```
 
